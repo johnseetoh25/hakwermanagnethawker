@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562646768621",
+    "project_id": "hawker-app-86c3d",
+    "storage_bucket": "hawker-app-86c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562646768621:android:2fa6af7bde1bdc9184a5e4",
+        "android_client_info": {
+          "package_name": "com.example.hakwermanagnethawker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562646768621-eqi1nclpqd6us6e0is5hi5il8th0uo7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaSAwkCXiVHLr9E7oZviVmDb8717ZNMXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562646768621-eqi1nclpqd6us6e0is5hi5il8th0uo7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
