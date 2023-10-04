@@ -112,7 +112,7 @@ class _FoodAddEditPageState extends State<FoodAddEditPage> {
 
                 SizedBox(height: 20.0,),
 
-                RaisedButton(
+                Button(
                   padding: EdgeInsets.all(20.0),
                   onPressed: (){
                     addUpdateFoodData();
